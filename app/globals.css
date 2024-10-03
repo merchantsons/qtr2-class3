@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg_house {
+    content: url('../public/bg_house.jpg');  
+    opacity: 0.2;
+  }
+
+  .bg{
+    background-color: rgb(178, 179, 216);
+  }
+
+  .logo{
+    content: url('../public/logo.png');
+    width: 10vmin;
+    height: 12.5vmin;
+  }
