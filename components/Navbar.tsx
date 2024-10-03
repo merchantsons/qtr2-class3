@@ -1,6 +1,5 @@
 "use client"
 import React, { useState } from 'react';
-import DropdownMenu from './Dropdown';
 import Link from 'next/link';
 
 const Navbar: React.FC = () => {
