@@ -1,13 +1,9 @@
 Clone Site With Routes (NextJs + Tailwind CSS) <br>
 
-# GIAIC Q2
+# GIAIC Qtr 2 - Class 3 - Class Assignment<br>
+
 Governor Sindh IT Initiative Repositories <br>
 Author       : merchantsons (GITHUB USER NAME) <br>
 Roll Number  : 00037391 <br>
 Days / Time  : Tuesday - 02:00 PM - 05:00 PM <br>
 Center       : Governor House Karachi (Onsite) <br>
-
-
-
-https://q2-class-3.vercel.app/
-https://github.com/merchantsons/q2-class-3.git
